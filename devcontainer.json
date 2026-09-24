@@ -1,0 +1,10 @@
+{
+  "name": "Debian Trixie Lab",
+  "image": "mcr.microsoft.com/devcontainers/base:1-debian-12",
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  },
+  "remoteUser": "vscode"
+}
